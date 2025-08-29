@@ -7,6 +7,10 @@ I happen to be using Obsidian at the moment.  It can be loaded from a package ma
 
 Once you've gotten ScanSMB extracted into its folder (i.e. /home/user/ScanSMB), tell Obsidian to create a new vault from an existing folder location and navigate to this folder (at initial load or "Obsidian" link Manage Vaults in lower left).  When it opens you'll have the full set of files to view in the root ScanSMB folder (like this one)  and in ScanSMB/docs which has much more in it.  They will display in the MD enhanced format.
 
+---
+
+## Initial Beta Release 
+https://github.com/Beau-Ghis/ScanSMB/releases/tag/v0.0.7-30.02.2025-Beta-Initial-Release
 
 ---
 ## Install & Setup (Quick)
