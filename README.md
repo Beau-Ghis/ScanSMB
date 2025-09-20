@@ -16,7 +16,9 @@ https://github.com/Beau-Ghis/ScanSMB/releases/tag/v0.0.7-30.02.2025-Beta-Initial
 ## Install & Setup (Quick)
 
 - Download and extract the ScanSMB files into a folder such as /home/user/ScanSMB
-- Copy a launcher icon befitting your Desktop Env to you desktop
+- Copy a launcher icon befitting your Desktop Env to your desktop and run it 
+- The launcher shell will show what packages it requires like flask, pip and waitress; install them
+- Run the launcher again and its shell will fire up the GUI main program in a web browser
 
 ---
 ## Usage (Quick) -- See full README for details
